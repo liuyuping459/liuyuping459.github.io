@@ -4,19 +4,37 @@ title: About
 permalink: /about/
 ---
 
-<!-- An amateur on computer. I'm using OS X now. Feeling good about OS X and Linux. But I'm not used to Windows now.
+##关于我
+在校硕士研究生一枚，2016年将毕业于西安交通大学软件学院。
+接触过 自组织分布式无线通信协议，产生式规则带权不确定性推理，云计算 等相关领域，尚未得甚解。
+目前在做java/java web相关。
+	
+	希望毕业后从事java/java web相关工作。
 
-The name "vjudge1" comes from Online Judges, which is a robot account using by [vjudge](http://vjudge.net). Of course, They don't know me. 
+冰雪运动爱好者，冰球、高山速降：汽车爱好者，目前限于欣赏：交通地理爱好者，感觉看地图和设计路线很有快感。
 
-This is my own theme with Bootstrap & jQuery.
+还有，谁能告诉我怎么才能吃胖？
 
-Thanks for these authors for some codes:
+##关于博客
+首先，在这里得到了很多帮助，其次，应该把自己的想法分享出来，而不只是记在笔记上。
+写些最近学习到的和项目中遇到的问题。
+
+最后感谢小伙伴[高浩阳](https://github.com/Gaohaoyang/gaohaoyang.github.io)在我创建博客时给予的帮助。    
+
+---
+---
+
+This is a theme with Bootstrap & jQuery.
+
+Thanks for these authors for many codes:
 
 * [Gao Haoyang](https://github.com/Gaohaoyang/gaohaoyang.github.io)
-* [Liberize](https://github.com/liberize/liberize.github.com)
+* [vjudge1](http://vjudge1.github.io/)    
+
+I will revise and improve it step by step with the improvement of my front-end skills.
 
 Thanks for:
 
 * [GitHub Pages](https://pages.github.com)
 * [Jekyll](http://jekyllrb.com)
-* [Disqus](https://disqus.com) -->
+* [duoshuo](https://duoshuo.com)
