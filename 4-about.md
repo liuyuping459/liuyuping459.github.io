@@ -19,7 +19,7 @@ permalink: /about/
 首先，在这里得到了很多帮助，其次，应该把自己的想法分享出来，而不只是记在笔记上。
 写些最近学习到的和项目中遇到的问题。
 
-最后感谢小伙伴[高浩阳](https://github.com/Gaohaoyang/gaohaoyang.github.io)在我创建博客时给予的帮助。    
+最后感谢小伙伴[高浩阳](https://github.com/Gaohaoyang)在我创建博客时给予的帮助。    
 
 ---
 ---
