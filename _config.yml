@@ -1,0 +1,20 @@
+# Site settings
+title: LYP
+email: ypliu45@163.com
+description: 
+footnote: > # this means to ignore newlines until "baseurl:"
+  &copy; 2015 liuyuping459<br>Powered by GitHub Pages & Jekyll
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://liuyuping459.github.io" # the base hostname & protocol for your site
+permalink: /:year/:month/:day/:title
+paginate: 5
+excerpt_separator: "\n\n\n\n"
+timezone: Asia/Xi'an
+github_username: liuyuping459
+
+# Gems
+# gems:
+# - jemoji
+
+# Build settings
+markdown: kramdown
