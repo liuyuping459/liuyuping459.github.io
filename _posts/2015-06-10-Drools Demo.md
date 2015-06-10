@@ -12,7 +12,8 @@ tags: drools
 
 ## 应用drools规则引擎做产生式规则不确定性推理
 
-*drools规则引擎，能以rete算法为核心进行高效的规则匹配。我们可以借助其高效的匹配能力，完成产生式规则的推理工作。
+drools规则引擎，能以rete算法为核心进行高效的规则匹配。我们可以借助其高效的匹配能力，完成产生式规则的推理工作。
+
 rete网在首次加载完成之后，其加载和推理的时间随着规则的增加，仅有很小幅度的增加。
 
 
@@ -24,7 +25,7 @@ rete网在首次加载完成之后，其加载和推理的时间随着规则的�
 ---
 ## 实现
 
-*我做了一个实现的[Demo](https://github.com/liuyuping459/FuzzyReasoningDemo)，托管在[我的github](https://github.com/liuyuping459)。其中实现了上述的推理能力。
+我做了一个实现的[Demo](https://github.com/liuyuping459/FuzzyReasoningDemo)，托管在[我的github](https://github.com/liuyuping459)。其中实现了上述的推理能力。
 
 我们可以在控制台输入相应的事实，就可以得到根据我们给定的规则获得的推理链。由于我手里没有能拿来公开演示的真实规则，所以[Demo](https://github.com/liuyuping459/FuzzyReasoningDemo)中只是用了并没有实际意义的名称和字母组成的规则，只是作为示例。
 
