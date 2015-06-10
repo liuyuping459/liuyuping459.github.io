@@ -1,9 +1,9 @@
-
+---
 layout: post
 title: "Drools Demo"
-date: 2015-06-10 16:06:10
+date: 2015-06-10 16:50:10
 author: liuyp
-categories: drools 
+categories: drools
 tags: drools
 ---
 
