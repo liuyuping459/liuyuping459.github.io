@@ -1,9 +1,10 @@
+
 layout: post
 title: "Drools Demo"
 date: 2015-06-10 16:06:10
 author: liuyp
 categories: drools 
-tags: drools java
+tags: drools
 ---
 
 * content
