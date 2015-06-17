@@ -17,7 +17,7 @@ tags: java Design-Pattern
 单例要完成的就是确保某一个类只有一个实例，而且自行实例化并向整个系统提供这个唯一的实例。就像它的定义:
 Ensure a class has only one instance, and provide a global point of access to it.
 
-最近学习整理了一下常见的单例模式实现方法（因为我见过的也不多，所有暂且认为我见过的就是常见的吧哈），大概有这么6种。
+最近学习整理了一下常见的单例模式实现方法（因为我见过的也不多，所以暂且认为我见过的就是常见的吧哈），大概有这么6种。
 
 
 
