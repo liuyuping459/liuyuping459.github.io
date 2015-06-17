@@ -4,7 +4,7 @@ title: "应用drools规则引擎做产生式规则不确定性推理"
 date: 2015-06-10 16:50:10
 author: liuyp
 categories: drools
-tags: drools
+tags: drools java
 ---
 
 * content
