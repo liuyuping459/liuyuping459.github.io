@@ -3,8 +3,8 @@ layout: post
 title: "单例设计模式的几种常见实现方法"
 date: 2015-06-17 13:10:00
 author: liuyp
-categories: DesignPattern
-tags: java DesignPattern
+categories: Design-Pattern
+tags: java Design-Pattern
 ---
 
 * content
