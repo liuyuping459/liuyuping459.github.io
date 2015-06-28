@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "华为校园招聘java机试题整理"
-date: 2015-06-28 16:48:00
+title: "华为java机试题整理"
+date: 2015-06-28 16:54:00
 author: liuyp
 categories: java
-tags: java test
+tags: java
 ---
 
 * content
@@ -21,6 +21,7 @@ tags: java test
 
 
 
+## java机试题
 
 ###题1
 如描述，不知道能不能用stack，就傻傻的自己写了一个。就是比较前后括号是否按规则成对出现。
