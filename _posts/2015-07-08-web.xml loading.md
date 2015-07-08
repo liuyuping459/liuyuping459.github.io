@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "华为java机试题整理(2)"
-date: 2015-06-29 13:20:00
+title: "web工程加载顺序"
+date: 2015-07-09 16:45:00
 author: liuyp
-categories: java
-tags: java
+categories: web
+tags: web
 ---
 
 * content
